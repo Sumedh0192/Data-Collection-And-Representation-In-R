@@ -9,4 +9,4 @@ Implementation:
 * Fetched thousands of tweets using Twitter API related to a specific topic. Mapped the tweets on map of USA depending on the high tweeting regions.
 
 Project Description Link: 
-https://github.com/Sumedh0192/Data-Mining-and-Computing/blob/master/Data-Collection-and-Representation/Project-Description.pdf
+https://github.com/Sumedh0192/Data-Collection-And-Representation-In-R/blob/master/Project-Description.pdf
